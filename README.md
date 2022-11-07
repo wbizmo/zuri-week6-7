@@ -1,7 +1,7 @@
 
 # Image carousel
 
-This repositroy contains week 3 to week 5 assignments for Zuri I4G cohort 2022.
+This repositroy contains weeks 6&7 assignments for Zuri I4G cohort 2022.
 
 
 ## Authors
