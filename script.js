@@ -15,3 +15,11 @@ $(document).ready(function () {
   });
   mySwiper.init();
 });
+
+// hide or show arrows on hover
+
+$(".swiper-container").hover(function(){
+  $(".pagination").fadeIn(250);
+  }, function(){
+  $(".pagination").fadeOut(250);
+});

@@ -31,6 +31,7 @@ p {
 .swiper-container {
   position: relative;
   width: 70%;
+  cursor: pointer;
 }
 .swiper-slide {
   transition: all 1000ms linear;
@@ -61,7 +62,6 @@ img {
   top: 40%;
   cursor: pointer;
 }
-
 .previous-image {
   position: absolute;
   left: 0;
